@@ -178,6 +178,7 @@ header .menu:active {
     max-width: 100%;
     max-height: 18.75rem;
     padding-bottom: 0.625rem;
+    margin: 0 auto;
 }
 
 #pizzas h5 {
