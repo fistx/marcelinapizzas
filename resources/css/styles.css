@@ -191,7 +191,7 @@ header .menu:active {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
 }
 
 #about h2 {
@@ -299,5 +299,11 @@ footer {
 
     #about {
         flex-direction: column;
+    }
+
+    #contacto .map {
+        padding: 0.5rem;
+        width: 300px;
+        height: 200px;
     }
 }
